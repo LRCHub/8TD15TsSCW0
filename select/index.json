@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BF is...",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T16:44:12.848062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BF is...",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/01_BF_is..._BE_FIRST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BF is...",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_BF_is..._BE_FIRST.txt"
+    }
+  ]
+}
